@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhushan Chavan</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fraw.githubusercontent.com%2Frajpratyush%2Frajpratyush%2Fmaster%2Fme_1.gif&tbnid=CVLQvplLvZ78OM&vet=12ahUKEwix8tzcx_CAAxXlz6ACHf8tDbsQMygLegQIARBz..i&imgrefurl=https%3A%2F%2Fgithub.com%2Frajpratyush%2Frajpratyush&docid=GtdMy9pnit4HpM&w=680&h=428&q=coding%20gif%20for%20github&ved=2ahUKEwix8tzcx_CAAxXlz6ACHf8tDbsQMygLegQIARBz">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhushan1024&label=Profile%20views&color=0e75b6&style=flat" alt="bhushan1024" /> </p>
 
