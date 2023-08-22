@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhushan Chavan</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhushan1024" alt="bhushan1024" /></a> </p>
-
 - 🌱 I’m currently learning **Engineering**
 
 - 💬 Ask me about **Java,Python,React**
