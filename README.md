@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bhushan Chavan</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhushan1024&label=Profile%20views&color=0e75b6&style=flat" alt="bhushan1024" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhushan1024" alt="bhushan1024" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/bchavan2710" target="blank"><img src="https://img.shields.io/twitter/follow/bchavan2710?logo=twitter&style=for-the-badge" alt="bchavan2710" /></a> </p>
 
 - 🌱 I’m currently learning **Engineering**
 
@@ -17,6 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/bchavan2710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bchavan2710" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bhushan2710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhushan2710" height="30" width="40" /></a>
 <a href="https://instagram.com/bhushan_.2710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhushan_.2710" height="30" width="40" /></a>
 </p>
@@ -27,3 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhushan1024&show_icons=true&locale=en&layout=compact" alt="bhushan1024" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhushan1024&show_icons=true&locale=en" alt="bhushan1024" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhushan1024&" alt="bhushan1024" /></p>
