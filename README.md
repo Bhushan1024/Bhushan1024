@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhushan Chavan</h1>
-<h3 align="center">A passionate Developer from India</h3>
+<h3 align="center">A Passionate Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhushan1024&label=Profile%20views&color=0e75b6&style=flat" alt="bhushan1024" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhushan1024" alt="bhushan1024" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/bchavan2710" target="blank"><img src="https://img.shields.io/twitter/follow/bchavan2710?logo=twitter&style=for-the-badge" alt="bchavan2710" /></a> </p>
 
