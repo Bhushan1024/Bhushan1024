@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhushan Chavan</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
-- 🌱 I’m currently learning **Engineering**
+- 🌱 I’m an  **Engineer** by profession
 
 - 💬 Ask me about **Java,Python,React**
 
