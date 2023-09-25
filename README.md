@@ -3,7 +3,7 @@
 
 - 🌱 I’m an  **Engineer** by profession
 
-- 💬 Ask me about **Java,Python,React**
+- 💬 Ask me about **Java,Python,React,Spring**
 
 - 📫 How to reach me **bhushanchavan2710@gmail.com**
 
